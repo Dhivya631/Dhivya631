@@ -60,10 +60,10 @@ Service to register and authenticate passengers using JWT and PostgreSQL.
 
 ### 📜 Certifications
 
-- ✅ [AWS Certified Developer – Associate (2024)](https://www.credly.com/badges/b8fdbc2e-0948-4d65-9dd9-7260c7845632/public_url)  
-- ✅ [Microsoft Certified: Azure Developer Associate (2025)](https://www.credly.com/badges/deb5b038-21dd-4db3-98d7-8274753e5037/public_url)  
-- ✅ Google IT Automation with Python (2022)
-
+- 🏅 [Microsoft Certified: Azure Fundamentals (2025)](https://learn.microsoft.com/en-us/users/DhivyaR-2948/credentials/65EA5A463B1AB974)
+- 🏅 [Microsoft Certified: Azure Developer Associate (2025)](https://learn.microsoft.com/en-us/users/dhivyar-2948/credentials/e1d0f61c1b99885b)
+- 🏅 [AWS Certified Developer – Associate (2024)](https://www.credly.com/badges/b8fdbc2e-0948-4d65-9dd9-7260c7845632/public_url)
+- 🏅 [Google IT Automation with Python (2022)](https://www.credly.com/badges/deb5b038-21dd-4db3-98d7-8274753e5037/public_url)
 ---
 
 ### 📊 GitHub Stats
