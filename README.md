@@ -1,61 +1,85 @@
-## Hi there 👋 It's me Dhivya R
+<h1 align="center">Hi there 👋 I'm Dhivya R!</h1>
 
-Software Developer | Backend Engineer | Java | Spring Boot
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-- 🔭 I’m currently working at HCLTech as a Backend Developer  
-- 🌱 Learning and building scalable microservices using Spring Boot and PostgreSQL
-- 👩‍💻 Passionate about Java, backend architecture, and cloud technologies
-- ⚡ Fun fact: I love turning business problems into elegant backend solutions!
-
-### 🌐 Social Presence
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhivya287/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&lines=Software+Developer+%7C+Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+and+Secure+Backend+Applications;Let's+Code%2C+Build%2C+and+Learn+Together!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+### 👩‍💻 About Me
 
-### I Code In:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/junit.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
-
-### Tools & IDEs I Use:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/spring-tool-suite.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/netbeans.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/maven-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgresql.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/jira.png"/>
+- 💼 Software Developer at **HCLTech**
+- 🚀 1.4 years of hands-on experience with **Spring Boot**, **Java**, and **PostgreSQL**
+- 🔐 Implementing secure systems using **JWT**, **Spring Security**
+- ✅ Test-driven development with **JUnit** and **JaCoCo**
+- 🏆 ERS Champion Award winner for outstanding performance
+- 🌱 Currently exploring advanced microservice patterns and system design
 
 ---
 
-## 🏆 Achievements
+### 💡 Tech Stack
 
-- 🥇 *ERS Champion Award* - Recognized for outstanding performance at HCLTech
-- 🏅 *AWS Developer Associate (2024)*
-- 🏅 *Microsoft Certified Azure Developer Associate (2025)*
-- 🏅 *Google IT Automation with Python (2022)*
+#### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+#### ⚙️ Backend & Frameworks  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Junit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java&logoColor=white)
 
-## 📊 GitHub Stats
+#### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Dhivya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhivyaR&theme=dark&show_icons=true&hide=issues,contribs)
+#### 🛠 Tools  
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![STS](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-lightgrey?style=for-the-badge)
 
 ---
 
-### 💻 Workspace Specs
-<img height="30" src="https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th--Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+### 🧠 Projects
+
+#### 🔹 Flight Booking Microservice  
+Spring Boot-based REST API for booking and confirming flights, integrated with PostgreSQL.  
+**Features:** JWT Auth, Microservices, Maven Build  
+🔗 [GitHub Repo](#)
+
+#### 🔹 Employee Management System  
+CRUD application with admin and user roles, using Spring Boot and Jasper Reports.  
+🔗 [GitHub Repo](#)
+
+#### 🔹 Passenger Registration Service  
+Service to register and authenticate passengers using JWT and PostgreSQL.  
+🔗 [GitHub Repo](#)
 
 ---
 
-### 📫 How to reach me
-- 📧 *Email:* r_dhivy@hcltech.com
-- 🔗 *LinkedIn:* [linkedin.com/in/dhivya287](https://www.linkedin.com/in/dhivya287/)
+### 📜 Certifications
+
+- ✅ [AWS Certified Developer – Associate (2024)](https://www.credly.com/badges/b8fdbc2e-0948-4d65-9dd9-7260c7845632/public_url)  
+- ✅ [Microsoft Certified: Azure Developer Associate (2025)](https://www.credly.com/badges/deb5b038-21dd-4db3-98d7-8274753e5037/public_url)  
+- ✅ Google IT Automation with Python (2022)
 
 ---
 
-Thank you for visiting my profile! Let's connect and build something amazing together.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhivyaR&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaR&theme=radical" width="49%" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya287/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DhivyaR)
+
+---
+
+💬 *Thanks for stopping by! I’m open to collaborating on Spring Boot projects and backend APIs.*
