@@ -5,10 +5,10 @@ Software Developer @ HclTech
 
 ### 👩‍💻 About Me
 
-- 💼 Software Developer at *HCLTech*
-- 🚀 1.4 years of hands-on experience with *Spring Boot, **Java, and **PostgreSQL*
-- 🔐 Implementing secure systems using *JWT, **Spring Security*
-- ✅ Test-driven development with *JUnit* and *JaCoCo*
+- 💼 Software Developer at **HCLTech**
+- 🚀 1.4 years of hands-on experience with **Spring Boot**, **Java**, and **PostgreSQL**
+- 🔐 Implementing secure systems using **JWT**, **Spring Security**
+- ✅ Test-driven development with **JUnit** and **JaCoCo**
 - 🏆 ERS Champion Award winner for outstanding performance
 - 🌱 Currently exploring advanced microservice patterns and system design
 
@@ -48,6 +48,8 @@ Software Developer @ HclTech
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaR&theme=radical" width="49%" />
 </p>
 
+### Github Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhivya631&bg_color=1d1b1c&color=f5f4f5&line=39c04e&point=fbf4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya287/)
