@@ -39,23 +39,6 @@ Software Developer @ HclTech
 
 ---
 
-### 🧠 Projects
-
-#### 🔹 Flight Booking Microservice  
-Spring Boot-based REST API for booking and confirming flights, integrated with PostgreSQL.  
-*Features:* JWT Auth, Microservices, Maven Build  
-🔗 [GitHub Repo](#)
-
-#### 🔹 Employee Management System  
-CRUD application with admin and user roles, using Spring Boot and Jasper Reports.  
-🔗 [GitHub Repo](#)
-
-#### 🔹 Passenger Registration Service  
-Service to register and authenticate passengers using JWT and PostgreSQL.  
-🔗 [GitHub Repo](#)
-
----
-
 ### 📜 Certifications
 
 - 🏅 [Microsoft Certified: Azure Fundamentals (2025)](https://learn.microsoft.com/en-us/users/DhivyaR-2948/credentials/65EA5A463B1AB974)
