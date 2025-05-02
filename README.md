@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Dhivya R!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&lines=Software+Developer+%7C+Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+and+Secure+Backend+Applications;Let's+Code%2C+Build%2C+and+Learn+Together!" alt="Typing SVG" />
-</p>
+Software Developer @ HclTech
 
 ---
 
