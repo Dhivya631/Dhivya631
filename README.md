@@ -27,8 +27,11 @@ Software Developer @ HclTech
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Junit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java&logoColor=white)
 
+#### ☁️ Cloud
+<img width="48" height="48" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="amazon-web-services"/>
+
 #### 🗄️ Databases  
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/><img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>      <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 
 #### 🛠 Tools  
 <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
