@@ -1,82 +1,61 @@
-# Hi, I'm Dhivya R! 👩‍💻
+## Hi there 👋 It's me Dhivya R
 
-I’m a Software Developer with 1.4 years of hands-on experience in building secure, scalable backend applications using *Java, **Spring Boot, and **PostgreSQL*. I enjoy solving backend challenges, building microservice-based architectures, and following best practices in software development.
+Software Developer | Backend Engineer | Java | Spring Boot
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
----
+- 🔭 I’m currently working at HCLTech as a Backend Developer  
+- 🌱 Learning and building scalable microservices using Spring Boot and PostgreSQL
+- 👩‍💻 Passionate about Java, backend architecture, and cloud technologies
+- ⚡ Fun fact: I love turning business problems into elegant backend solutions!
 
-## 🔧 Tech Stack
-
-- *Languages:* Java  
-- *Frameworks:* Spring Boot, Spring Security, JUnit  
-- *Databases:* PostgreSQL, MySQL  
-- *Build Tools:* Maven  
-- *Version Control:* Git  
-- *Cloud Platforms:* AWS, Azure  
-- *Tools & IDEs:* IntelliJ IDEA, Spring Tool Suite (STS), NetBeans  
-- *Others:* JWT Authentication, RESTful APIs, Microservices, Jasper Reports, JaCoCo, SonarLint
+### 🌐 Social Presence
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhivya287/)
 
 ---
 
-## 🧩 Projects
+## 🚀 Tech Stack
 
-### 1. Flight Booking Microservice  
-A microservice to handle passenger bookings with secure JWT authentication, PostgreSQL persistence, and flight data management.  
-*Tech Used:* Spring Boot, Spring Security, JWT, PostgreSQL, Maven  
-*Features:*
-- Create, view, and confirm bookings
-- Role-based access (Admin and Passenger)
-- Data persistence with JPA
-- RESTful API design
+### I Code In:
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/junit.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
 
-[GitHub Repo](#) (Add repo link here)
-
----
-
-### 2. Employee Management System  
-An internal web application to manage employees, generate reports, and secure access with login functionality.  
-*Tech Used:* Spring Boot, MySQL, Jasper Reports, JUnit  
-*Features:*
-- Employee CRUD operations
-- Role-based login (Admin/User)
-- Automated PDF reports
-- Test coverage with JUnit
-
-[GitHub Repo](#) (Add repo link here)
-
----
-
-### 3. Passenger Registration Service  
-A registration and login service integrated with booking and flight services in a microservices ecosystem.  
-*Tech Used:* Spring Boot, PostgreSQL, Resilience4J, WebClient  
-*Features:*
-- RESTful APIs for registration and login
-- Circuit Breaker for fault tolerance
-- Load-balanced service calls using Spring Cloud
-
-[GitHub Repo](#) (Add repo link here)
-
----
-
-## 🏅 Certifications
-
-- [AWS Certified Developer – Associate (2024)](https://www.credly.com/badges/b8fdbc2e-0948-4d65-9dd9-7260c7845632/public_url)  
-- [Microsoft Certified: Azure Developer Associate (2025)](https://www.credly.com/badges/deb5b038-21dd-4db3-98d7-8274753e5037/public_url)  
-- Google IT Automation with Python (2022)
+### Tools & IDEs I Use:
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/spring-tool-suite.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/netbeans.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/maven-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgresql.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/jira.png"/>
 
 ---
 
 ## 🏆 Achievements
 
-- *ERS Champion Award* – Received at HCLTech for outstanding contributions and performance.
+- 🥇 *ERS Champion Award* - Recognized for outstanding performance at HCLTech
+- 🏅 *AWS Developer Associate (2024)*
+- 🏅 *Microsoft Certified Azure Developer Associate (2025)*
+- 🏅 *Google IT Automation with Python (2022)*
+
+
+## 📊 GitHub Stats
+
+![Dhivya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhivyaR&theme=dark&show_icons=true&hide=issues,contribs)
 
 ---
 
-## 📫 Contact
-
-- *LinkedIn:* [linkedin.com/in/dhivya287](https://www.linkedin.com/in/dhivya287)  
-- *Email:* r_dhivy@hcltech.com  
-- *GitHub:* [github.com/DhivyaR](https://github.com/DhivyaR) (update if different)  
+### 💻 Workspace Specs
+<img height="30" src="https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th--Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my projects or connect with me on LinkedIn.
+### 📫 How to reach me
+- 📧 *Email:* r_dhivy@hcltech.com
+- 🔗 *LinkedIn:* [linkedin.com/in/dhivya287](https://www.linkedin.com/in/dhivya287/)
+
+---
+
+Thank you for visiting my profile! Let's connect and build something amazing together.
