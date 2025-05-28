@@ -47,8 +47,7 @@ Software Developer @ HclTech
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhivyaR&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaR&theme=radical" width="49%" />
+  ![Dhivya631's Stats](https://github-readme-stats.vercel.app/api?username=Dhivya631&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </p>
 
 ### Github Contribution Graph
