@@ -47,7 +47,7 @@ Software Developer @ HclTech
 ### 📊 GitHub Stats
 
 <p align="center">
-  ![Dhivya631's Stats](https://github-readme-stats.vercel.app/api?username=Dhivya631&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 </p>
 
 ### Github Contribution Graph
