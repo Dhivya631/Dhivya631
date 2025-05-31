@@ -9,6 +9,8 @@ Software Developer @ HclTech
 - 🚀 1.5 years of hands-on experience with **Spring Boot**, **Java**, and **PostgreSQL**
 - 🔐 Implementing secure systems using **JWT**, **Spring Security**
 - ✅ Test-driven development with **JUnit** and **JaCoCo**
+- 🐳 Containerized applications using Docker for consistent and portable deployments
+- ⚙️ Integrated CI/CD pipelines to automate build, test, and deployment workflows
 - 🏆 ERS Champion Award winner for outstanding performance
 - 🌱 Currently exploring advanced microservice patterns and system design
 
