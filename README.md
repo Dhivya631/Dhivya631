@@ -47,10 +47,8 @@ Software Developer @ HclTech
 - 🏅 [Google IT Automation with Python (2022)](https://www.credly.com/badges/deb5b038-21dd-4db3-98d7-8274753e5037/public_url)
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://streak-stats.demolab.com?user=Dhivya631&theme=dracula&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Dhivya631's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhivya631&theme=dracula&hide_border=true" />
