@@ -47,15 +47,11 @@ Software Developer @ HclTech
 - 🏅 [Google IT Automation with Python (2022)](https://www.credly.com/badges/deb5b038-21dd-4db3-98d7-8274753e5037/public_url)
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 ![GitHub Stats](https://streak-stats.demolab.com?user=Dhivya631&theme=dracula&hide_border=true)
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhivya631&theme=dracula&hide_border=true" />
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhivya631&theme=dracula&hide_border=true" alt="Dhivya631's GitHub Stats" />
-</p>
-
 
 ### Github Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhivya631&bg_color=1d1b1c&color=f5f4f5&line=39c04e&point=fbf4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
