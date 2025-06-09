@@ -53,11 +53,10 @@ Software Developer @ HclTech
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivya631&theme=dracula&layout=compact&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhivya631&theme=dracula&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhivya631&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 
