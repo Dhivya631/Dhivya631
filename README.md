@@ -49,14 +49,13 @@ Software Developer @ HclTech
 ### 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Dhivya631's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhivya631&theme=dracula&hide_border=true" />
-</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=Dhivya631&theme=dracula&hide_border=true" alt="Dhivya631's GitHub Stats" />
 </p>
 
 
