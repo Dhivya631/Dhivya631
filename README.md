@@ -49,7 +49,7 @@ Software Developer @ HclTech
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 </p>
 
 <p align="center">
