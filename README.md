@@ -51,13 +51,12 @@ Software Developer @ HclTech
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivya631&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=Dhivya631&theme=dracula&hide_border=true)
-
 ### Github Contribution Graph
 [![Dhivya github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhivya631&bg_color=1d1b1c&color=f5f4f5&line=39c04e&point=fbf4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya287/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DhivyaR)
+[![PortFolio](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fportfolio-logo%2F&psig=AOvVaw2rc4ye0irk36gafd1piZ0b&ust=1751618467922000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjU4sWloI4DFQAAAAAdAAAAABAE)](https://myportfolio-vqfl.onrender.com/)
 
 ---
