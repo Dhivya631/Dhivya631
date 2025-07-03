@@ -57,6 +57,6 @@ Software Developer @ HclTech
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya287/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DhivyaR)
-[![PortFolio](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fportfolio-logo%2F&psig=AOvVaw2rc4ye0irk36gafd1piZ0b&ust=1751618467922000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjU4sWloI4DFQAAAAAdAAAAABAE)](https://myportfolio-vqfl.onrender.com/)
+[![PortFolio](https://cdn.freebiesupply.com/logos/large/2x/portfolio-logo-svg-vector.svg)](https://myportfolio-vqfl.onrender.com/)
 
 ---
