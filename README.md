@@ -54,7 +54,7 @@ Software Developer @ HclTech
 ![GitHub Stats](https://streak-stats.demolab.com?user=Dhivya631&theme=dracula&hide_border=true)
 
 ### Github Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhivya631&bg_color=1d1b1c&color=f5f4f5&line=39c04e&point=fbf4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dhivya github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhivya631&bg_color=1d1b1c&color=f5f4f5&line=39c04e&point=fbf4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya287/)
