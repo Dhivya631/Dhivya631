@@ -6,7 +6,7 @@ Software Developer @ HclTech
 ### 👩‍💻 About Me
 
 - 💼 Software Developer at **HCLTech**
-- 🚀 1.6 years of hands-on experience with **Spring Boot**, **Java**, and **PostgreSQL**
+- 🚀 1.7 years of hands-on experience with **Spring Boot**, **Java**, and **PostgreSQL**
 - 🔐 Implementing secure systems using **JWT**, **Spring Security**
 - ✅ Test-driven development with **JUnit** and **JaCoCo**
 - 🐳 Containerized applications using Docker for consistent and portable deployments
